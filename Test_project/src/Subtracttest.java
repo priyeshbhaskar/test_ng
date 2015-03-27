@@ -9,6 +9,6 @@ public class Subtracttest {
 	  
 	  Calculator calc = new Calculator();
 	  
-	  Assert.assertEquals(calc.sub(11, 5), 5);
+	  Assert.assertEquals(calc.sub(21, 5), 16);
   }
 }
